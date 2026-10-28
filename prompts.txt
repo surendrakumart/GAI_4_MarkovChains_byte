@@ -1,0 +1,23 @@
+# Task 4 Markov-chain generation prompts
+# Each prompt is a starting word (seed) drawn from the project corpus.
+# The generator creates one sample per seed; output files are in generated_samples/.
+01. The
+02. Every
+03. A
+04. She
+05. When
+06. Mira
+07. One
+08. During
+09. By
+10. After
+11. Sunlight
+12. Together
+13. Everyone
+14. As
+15. They
+16. At
+17. Above
+18. Birds
+19. Their
+20. Arun

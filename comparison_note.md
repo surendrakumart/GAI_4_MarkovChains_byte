@@ -1,0 +1,5 @@
+# Markov chains vs neural text generation
+
+This project uses a word-level Markov chain to choose each next token from transitions observed in a small training corpus. Its main strengths are simplicity, speed, low memory use, reproducibility, and transparency: the transition patterns can be inspected directly. It requires no GPU, model weights, API key, or third-party Python packages.
+
+Its limitations are also clear. Because it relies on short local contexts, generated passages can combine unrelated clauses, repeat familiar phrases, produce awkward grammar, and lose track of people or events. It does not represent meaning or maintain a reliable long-term plan. Modern neural language models generally use much larger training processes and richer context, so they tend to produce more coherent, instruction-following text, though they can still make mistakes. This small Markov model is best understood as a statistical baseline for demonstrating sequence generation, not as a substitute for a neural assistant.
