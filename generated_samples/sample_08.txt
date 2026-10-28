@@ -1,0 +1,5 @@
+Sample 08
+Seed prompt: during
+Markov order: 3
+
+During the storm, the first stars appeared in the square to celebrate their work.

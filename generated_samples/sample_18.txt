@@ -1,0 +1,5 @@
+Sample 18
+Seed prompt: birds
+Markov order: 3
+
+Birds settled into their nests while the river gave water to the village gardener helped him build a simple shelter.

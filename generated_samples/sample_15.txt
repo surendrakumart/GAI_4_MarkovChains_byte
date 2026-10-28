@@ -1,0 +1,5 @@
+Sample 15
+Seed prompt: they
+Markov order: 3
+
+They shared warm bread, vegetable soup, and respect wild animals.

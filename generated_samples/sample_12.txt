@@ -1,0 +1,5 @@
+Sample 12
+Seed prompt: together
+Markov order: 3
+
+Together they invited farmers, builders, and rain began to fall across the village and shared these observations with the elder and prepared to leave.

@@ -1,0 +1,5 @@
+Sample 13
+Seed prompt: everyone
+Markov order: 3
+
+Everyone received a small wooden bird carved from a branch near the stream.

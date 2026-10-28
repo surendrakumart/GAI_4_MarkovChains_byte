@@ -1,0 +1,5 @@
+Sample 01
+Seed prompt: the
+Markov order: 3
+
+The villagers believed that caring for the land was a promise to future generations.

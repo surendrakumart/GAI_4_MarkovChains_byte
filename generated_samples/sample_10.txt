@@ -1,0 +1,5 @@
+Sample 10
+Seed prompt: after
+Markov order: 3
+
+After the storm, a young carpenter named mira worked in a workshop near the old forest.

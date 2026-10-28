@@ -1,0 +1,5 @@
+Sample 03
+Seed prompt: a
+Markov order: 3
+
+A child named arun found the bird was ready to return to the forest, the traveler wanted to learn why the villagers rested, knowing that the next morning would bring more work, more learning, and children to discuss the riverbank.

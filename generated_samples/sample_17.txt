@@ -1,0 +1,5 @@
+Sample 17
+Seed prompt: above
+Markov order: 3
+
+Above the forest, the village. As spring arrived, new leaves appeared on the trees and flowers opened beside the water and repair the path with stones.

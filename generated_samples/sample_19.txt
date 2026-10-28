@@ -1,0 +1,5 @@
+Sample 19
+Seed prompt: their
+Markov order: 3
+
+Their careful planning kept the houses and the garden. The traveler heard birds calling from the bridge, and another chance to care for their home.

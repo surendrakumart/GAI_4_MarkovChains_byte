@@ -1,0 +1,5 @@
+Sample 04
+Seed prompt: she
+Markov order: 3
+
+She built tables, chairs, and stories beneath strings of lanterns.

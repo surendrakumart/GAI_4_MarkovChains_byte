@@ -1,0 +1,5 @@
+Sample 07
+Seed prompt: one
+Markov order: 3
+
+One evening, dark clouds gathered above the forest, the birds.

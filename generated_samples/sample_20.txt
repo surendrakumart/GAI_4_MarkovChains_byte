@@ -1,0 +1,5 @@
+Sample 20
+Seed prompt: arun
+Markov order: 3
+
+Arun waved from the bridge while the trees and flowers opened beside the old forest.

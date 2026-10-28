@@ -1,0 +1,5 @@
+Sample 06
+Seed prompt: mira
+Markov order: 3
+
+Mira never cut a healthy tree without permission, and small boats from fallen branches.

@@ -1,0 +1,5 @@
+Sample 14
+Seed prompt: as
+Markov order: 3
+
+As spring arrived, new leaves appeared on the trees held the soil in place.

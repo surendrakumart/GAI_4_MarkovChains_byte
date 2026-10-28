@@ -1,0 +1,5 @@
+Sample 02
+Seed prompt: every
+Markov order: 3
+
+Every morning, carrying a blue bag and a winding river. She explained that the river gave water to the forest.

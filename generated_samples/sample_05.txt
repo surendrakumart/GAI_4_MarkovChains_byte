@@ -1,0 +1,5 @@
+Sample 05
+Seed prompt: when
+Markov order: 3
+
+When strong winds crossed the valley. The houses and the garden attracted bees and butterflies.
